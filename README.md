@@ -10,10 +10,6 @@ It takes in PDF files or webpage links as input, users will then be able to sele
 * Keywords
 * Image
 
-![Demo 1]["demo.png"]
-
-![Demo 2]["C:\Users\bcheo\OneDrive\Desktop\demo2.png"]
-
 ## How we built it
 We incorporated OpenAi's GPT-3 API as well as google_image_search API into a PyQt5 GUI framework
 
