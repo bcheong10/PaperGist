@@ -10,7 +10,7 @@ It takes in PDF files or webpage links as input, users will then be able to sele
 * Keywords
 * Image
 
-![Demo 1]["C:/Users/bcheo/OneDrive/Desktop/demo.png"]
+![Demo 1]["demo.png"]
 
 ![Demo 2]["C:\Users\bcheo\OneDrive\Desktop\demo2.png"]
 
