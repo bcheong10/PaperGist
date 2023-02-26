@@ -24,4 +24,4 @@ Maintaining the functionality of the backend component of the UI was a challenge
 * API generation and implementation
 
 ## What's next for PaperGist
-** Conversationalistic AI requests (Giving more specific requests to the program. Eg. Asking it to generate powerpoint slides from the given article)
+* Conversationalistic AI requests (Giving more specific requests to the program. Eg. Asking it to generate powerpoint slides from the given article)
