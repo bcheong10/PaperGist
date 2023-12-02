@@ -1,6 +1,6 @@
 # PaperGist
-![UI Image](".demo.png")
-![UI Image 2](".demo2.png")
+![UI Image]("./demo.png")
+![UI Image 2]("./demo2.png")
 
 ## Inspiration
 To find an efficient method to convert articles into multimodal formats
