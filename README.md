@@ -1,4 +1,5 @@
 # PaperGist
+![UI Image]("logo.png")
 
 ## Inspiration
 To find an efficient method to convert articles into multimodal formats
